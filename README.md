@@ -2,7 +2,7 @@
 
 This project is a web application for managing food recipes. It is built using Laravel and Filament, providing functionalities to create, read, update, and delete recipes, with API endpoints secured using middleware token keys. It also includes an admin interface using Filament for managing the data.
 
-![Thumbnail](/preview-back.png.png)
+![Thumbnail](/preview-back.png)
 
 ## Features
 
